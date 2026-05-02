@@ -22,7 +22,8 @@ Most of my recent work revolves around:
 
 ## Projects I’ve worked on
 
-### Adaptive Statistical Arbitrage Engine
+### Adaptive Statistical Arbitrage Engine 
+( Check Out: https://github.com/Lahaakash/stat-arb-engine )
 
 This is the most challenging project I’ve worked on so far.
 
